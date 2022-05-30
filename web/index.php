@@ -344,10 +344,8 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $drevesiny = file_get_html('https://epicentrk.ua/ua/shop/brusy-doski-i-reyki/fs/poroda-drevesiny-sosna/');
-                     foreach($drevesiny->find('.listbody') as $articledrevesiny){
-                         echo $articledrevesiny;
-                     } ?>
+                  <?php 
+                 ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -407,10 +405,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $krovlya = file_get_html('https://epicentrk.ua/ua/shop/krovlya/');
-                     foreach($krovlya->find('.listbody') as $articlekrovlya){
-                         echo $articlekrovlya;
-                     } ?>
+                  <?php ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -470,10 +465,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $kirpich = file_get_html('https://epicentrk.ua/ua/shop/kirpich/');
-                     foreach($kirpich->find('.listbody') as $articlekirpich){
-                         echo $articlekirpich;
-                     } ?>
+                  <?php  ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -533,10 +525,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $dveri = file_get_html('https://epicentrk.ua/ua/search/?q=%D0%B4%D0%B2%D0%B5%D1%80%D1%96+%D1%82%D0%B0+%D0%B2%D1%96%D0%BA%D0%BD%D0%B0');
-                     foreach($dveri->find('.listbody') as $articledveri){
-                         echo $articledveri;
-                     } ?>
+                  <?php ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -596,10 +585,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $elektromontazhnoe = file_get_html('https://epicentrk.ua/ua/shop/elektromontazhnoe-oborudovanie/');
-                     foreach($elektromontazhnoe->find('.listbody') as $elektro){
-                         echo $elektro;
-                     } ?>
+                  <?php ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -659,10 +645,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $kanalizatsiya = file_get_html('https://epicentrk.ua/ua/shop/kanalizatsiya/');
-                     foreach($kanalizatsiya->find('.listbody') as $articlekanalizatsiya){
-                         echo $articlekanalizatsiya;
-                     } ?>
+                  <?php  ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -722,10 +705,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $lestnichnye = file_get_html('https://epicentrk.ua/ua/shop/lestnichnye-marshi/');
-                     foreach($lestnichnye->find('.listbody') as $articlelestnichnye){
-                         echo $articlelestnichnye;
-                     } ?>
+                  <?php ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -785,10 +765,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $santechnika = file_get_html('https://epicentrk.ua/ua/search/?q=%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D1%96%D0%B4+%D1%82%D0%B0+%D1%81%D0%B0%D0%BD%D1%82%D0%B5%D1%85%D0%BD%D1%96%D0%BA%D0%B0');
-                     foreach($santechnika->find('.listbody') as $articlesantechnika){
-                         echo $articlesantechnika;
-                     } ?>
+                  <?php ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -848,10 +825,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $podvesnoy = file_get_html('https://epicentrk.ua/ua/shop/podvesnoy-potolok/');
-                     foreach($podvesnoy->find('.listbody') as $articlepodvesnoy){
-                         echo $articlepodvesnoy;
-                     } ?>
+                  <?php  ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -911,10 +885,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $bloki = file_get_html('https://epicentrk.ua/ua/shop/bloki-stroitelnye/');
-                     foreach($bloki->find('.listbody') as $articlebloki){
-                         echo $articlebloki;
-                     } ?>
+                  <?php  ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -974,10 +945,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $otoplenie = file_get_html('https://epicentrk.ua/ua/shop/otoplenie/');
-                     foreach($otoplenie->find('.listbody') as $articleotoplenie){
-                         echo $articleotoplenie;
-                     } ?>
+                  <?php ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
@@ -1037,10 +1005,7 @@
                 </div>
                 <button class="accordion">Вартість тораву для роботи</button>
                 <div class="panel">
-                  <?php $dacha = file_get_html('https://epicentrk.ua/ua/shop/dacha-sad-i-ogorod/');
-                     foreach($dacha->find('.listbody') as $articledacha){
-                         echo $articledacha;
-                     } ?>
+                  <?php ?>
                 </div>
               </div>
               <aside class="card-details-sidebar">
